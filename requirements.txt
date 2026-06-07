@@ -1,0 +1,5 @@
+py-cord
+groq
+requests
+python-dotenv
+gtts
